@@ -17,5 +17,5 @@ Welcome to the Band Name Generator! This is a simple Tkinter-based application t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/band-name-generator.git
+   git clone https://github.com/mup7/band-name-generator.git
    cd band-name-generator
