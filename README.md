@@ -63,4 +63,4 @@ Contributions are welcome! Please, fork the repository and submit a pull request
 
 ## Contact
 
-For any questions or feedback, please contact mupdlv@gmail.com.
+For any questions or feedback, please contact [mupdlv@gmail.com](mailto:mupdlv@gmail.com).
