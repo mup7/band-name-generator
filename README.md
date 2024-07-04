@@ -51,7 +51,7 @@ generating the band name.
 
 ## License
 
-This project is licensed under the MIT License. See the 'LICENSE' file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mup7/band-name-generator/blob/main/LICENSE) file for details.
 
 ## Contributing
 
