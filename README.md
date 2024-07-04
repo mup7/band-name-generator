@@ -34,11 +34,11 @@ Welcome to the Band Name Generator! This is a simple Tkinter-based application t
 
 ## Code Overview
 
-**main.py**
+**main.py**  <br>
 This file serves as the entry point of the application. It imports the **'Root'** class from **'root.py'** and
 initializes it to start the Tkinter application.
 
-**root.py**
+**root.py**  <br>
 This file contains the **'Root'** class, which handles the creation and management of the Tkinter root
 window and its widgets.
 
