@@ -45,7 +45,7 @@ window and its widgets.
 - **'__init__' method**: Initializes the root window and widgets (labels, entry fields, and button).
 - **'generate_band_name' method**: Generates the band name based on user inputs and displays it.
 
-**Detailed Code Comments**
+**Detailed Code Comments**  <br>
 The code is thoroughly commented to explain each part of the GUI setup and the logic for
 generating the band name.
 
