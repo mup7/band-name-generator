@@ -11,6 +11,7 @@ class Root():
         self.root = tkinter.Tk()
         self.root.config(padx=25, pady=25)
         self.root.title("Band Name Generator")
+        self.root.iconbitmap("logo.ico")
 
         # Welcome label with a title font
         self.label1 = tkinter.Label(text="Welcome to the Band Name Generator", font=TITLE_FONT)
